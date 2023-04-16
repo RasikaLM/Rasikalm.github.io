@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>.Post Doctoral Research Associate.
+subtitle: <a href='#'></a> Post Doctoral Research Associate.
 
 profile:
   align: right

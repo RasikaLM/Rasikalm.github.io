@@ -11,8 +11,8 @@ profile:
   address: >
     <p>Rasika Mahawattege</p>
     <p>MP 418</p>
-    <p>Department of Mathematics and Statistics</p>
-    <p>University of Maryland Baltimore County</p>
+    <p>Dept. of Math. \& Stat.</p>
+    <p>UMBC</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my PhD from [University of Memphis](https://www.memphis.edu/)under the supervison of [Prof. Roberto Triggiani](https://www.memphis.edu/msci/people/rtrggani.php) Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I obtained my PhD from [University of Memphis](https://www.memphis.edu/)  under the supervison of [Prof. Roberto Triggiani](https://www.memphis.edu/msci/people/rtrggani.php) Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

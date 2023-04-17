@@ -11,8 +11,8 @@ profile:
   address: >
     <p>Rasika Mahawattege</p>
     <p>MP 418</p>
-    <p>Dept. of Math. \& Stat.</p>
-    <p>UMBC</p>
+    <p>Dept. of Math. & Stat.</p>
+    <p>UMBC, USA.</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
